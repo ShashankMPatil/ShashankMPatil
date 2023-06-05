@@ -1,12 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
-)]
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate I'm a passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankmpatil&label=Profile%20views&color=0e75b6&style=flat" alt="shashankmpatil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankmpatil" alt="shashankmpatil" /></a> </p>
 
 - 🔭 I’m currently working on **My first front end project**
 
